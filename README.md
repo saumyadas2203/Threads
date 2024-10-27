@@ -1,4 +1,4 @@
-# 12+ Hour MERN Masterclass: Build and Deploy a Threads App with Real-Time Chat Functionality
+# Build and Deploy a Threads App with Real-Time Chat Functionality
 
 ![Demo App](https://i.ibb.co/BnGdh10/Group-62.png)
 
